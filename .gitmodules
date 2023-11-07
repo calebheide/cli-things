@@ -1,0 +1,9 @@
+[submodule "terminalTimer"]
+	path = terminalTimer
+	url = https://github.com/calebheide/terminalTimer
+[submodule "autoGitCommit"]
+	path = autoGitCommit
+	url = https://github.com/calebheide/autoGitCommit
+[submodule "terminalColorConvert"]
+	path = terminalColorConvert
+	url = https://github.com/calebheide/terminalColorConvert
