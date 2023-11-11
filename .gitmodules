@@ -7,3 +7,6 @@
 [submodule "terminalColorConvert"]
 	path = terminalColorConvert
 	url = https://github.com/calebheide/terminalColorConvert
+[submodule "clibattery"]
+	path = clibattery
+	url = https://github.com/calebheide/clibattery
