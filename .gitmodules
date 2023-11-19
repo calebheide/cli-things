@@ -10,3 +10,6 @@
 [submodule "clibattery"]
 	path = clibattery
 	url = https://github.com/calebheide/clibattery
+[submodule "cliCalculator"]
+	path = cliCalculator
+	url = https://github.com/calebheide/cliCalculator
