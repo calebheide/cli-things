@@ -13,3 +13,6 @@
 [submodule "cliCalculator"]
 	path = cliCalculator
 	url = https://github.com/calebheide/cliCalculator
+[submodule "darkmode"]
+	path = darkmode
+	url = https://github.com/calebheide/darkmode
