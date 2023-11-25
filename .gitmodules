@@ -16,3 +16,6 @@
 [submodule "darkmode"]
 	path = darkmode
 	url = https://github.com/calebheide/darkmode
+[submodule "menubarMessage"]
+	path = menubarMessage
+	url = https://github.com/calebheide/menubarMessage
