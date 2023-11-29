@@ -19,3 +19,6 @@
 [submodule "menubarMessage"]
 	path = menubarMessage
 	url = https://github.com/calebheide/menubarMessage
+[submodule "lsCpp"]
+	path = lsCpp
+	url = https://github.com/calebheide/lsCpp.git
