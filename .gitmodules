@@ -22,3 +22,6 @@
 [submodule "lsCpp"]
 	path = lsCpp
 	url = https://github.com/calebheide/lsCpp.git
+[submodule "cli_trash"]
+	path = cli_trash
+	url = https://github.com/calebheide/cli_trash.git
