@@ -25,3 +25,6 @@
 [submodule "cli_trash"]
 	path = cli_trash
 	url = https://github.com/calebheide/cli_trash.git
+[submodule "Vess"]
+	path = Vess
+	url = https://github.com/calebheide/Vess.git
