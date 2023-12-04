@@ -28,3 +28,6 @@
 [submodule "Vess"]
 	path = Vess
 	url = https://github.com/calebheide/Vess.git
+[submodule "vim-simplify"]
+	path = vim-simplify
+	url = https://github.com/calebheide/vim-simplify.git
