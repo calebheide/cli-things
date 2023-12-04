@@ -31,3 +31,6 @@
 [submodule "vim-simplify"]
 	path = vim-simplify
 	url = https://github.com/calebheide/vim-simplify.git
+[submodule "vim-rainbow-drops"]
+	path = vim-rainbow-drops
+	url = https://github.com/calebheide/vim-rainbow-drops.git
