@@ -37,3 +37,6 @@
 [submodule "myHeaders"]
 	path = myHeaders
 	url = https://github.com/calebheide/myHeaders.git
+[submodule "vim-java-enhanced-highlight"]
+	path = vim-java-enhanced-highlight
+	url = https://github.com/calebheide/vim-java-enhanced-highlight.git
