@@ -34,3 +34,6 @@
 [submodule "vim-rainbow-drops"]
 	path = vim-rainbow-drops
 	url = https://github.com/calebheide/vim-rainbow-drops.git
+[submodule "myHeaders"]
+	path = myHeaders
+	url = https://github.com/calebheide/myHeaders.git
