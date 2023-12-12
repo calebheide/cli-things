@@ -40,3 +40,6 @@
 [submodule "vim-java-enhanced-highlight"]
 	path = vim-java-enhanced-highlight
 	url = https://github.com/calebheide/vim-java-enhanced-highlight.git
+[submodule "lang"]
+	path = lang
+	url = https://github.com/calebheide/lang.git
